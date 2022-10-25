@@ -1,0 +1,21 @@
+.mainbox{
+  display: flex;
+  flex-direction: column;
+  background-color: pink;
+  text-align: center;
+}
+
+.container{
+  background-color: white;
+  margin: 2vw 25vw;
+  box-shadow: .25vw .25vw .25vw;
+  padding: 1vw;
+}
+
+article{
+  padding: 2vw;
+  background-color: pink;
+  margin: 1vw;
+  margin-left: 10vw;
+  margin-right: 10vw;
+}
